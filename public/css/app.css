@@ -358,7 +358,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #292b2c;
-  background-color: #ebebeb;
+  background-color: #F8F9FA;
 }
 
 [tabindex="-1"]:focus {
@@ -713,7 +713,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #ebebeb;
+  background-color: #F8F9FA;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2584,7 +2584,7 @@ pre code {
 }
 
 .table .table {
-  background-color: #ebebeb;
+  background-color: #F8F9FA;
 }
 
 .table-sm th,
@@ -2690,7 +2690,7 @@ pre code {
 }
 
 .thead-inverse th {
-  color: #ebebeb;
+  color: #F8F9FA;
   background-color: #292b2c;
 }
 
@@ -2700,14 +2700,14 @@ pre code {
 }
 
 .table-inverse {
-  color: #ebebeb;
+  color: #F8F9FA;
   background-color: #292b2c;
 }
 
 .table-inverse th,
 .table-inverse td,
 .table-inverse thead th {
-  border-color: #ebebeb;
+  border-color: #F8F9FA;
 }
 
 .table-inverse.table-bordered {
@@ -4163,8 +4163,8 @@ tbody.collapse.show {
 }
 
 .custom-control-input:focus ~ .custom-control-indicator {
-  -webkit-box-shadow: 0 0 0 1px #ebebeb, 0 0 0 3px #0275d8;
-          box-shadow: 0 0 0 1px #ebebeb, 0 0 0 3px #0275d8;
+  -webkit-box-shadow: 0 0 0 1px #F8F9FA, 0 0 0 3px #0275d8;
+          box-shadow: 0 0 0 1px #F8F9FA, 0 0 0 3px #0275d8;
 }
 
 .custom-control-input:active ~ .custom-control-indicator {
@@ -4395,8 +4395,8 @@ tbody.collapse.show {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #464a4c;
-  background-color: #ebebeb;
-  border-color: #ddd #ddd #ebebeb;
+  background-color: #F8F9FA;
+  border-color: #ddd #ddd #F8F9FA;
 }
 
 .nav-tabs .dropdown-menu {
@@ -6608,7 +6608,7 @@ button.close {
 }
 
 .bg-faded {
-  background-color: #e3e3e3;
+  background-color: #eff1f4;
 }
 
 .bg-primary {
